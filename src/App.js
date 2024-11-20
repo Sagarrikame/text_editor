@@ -147,7 +147,7 @@ function App() {
                   fontFamily: text.fontFamily,
                   border: "none",
                   background: "transparent",
-                  outline: "none",
+                  
                 }}
                
               />
